@@ -6,6 +6,9 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ![image](https://user-images.githubusercontent.com/61695335/207960484-c7e4fa64-7cb2-4346-bef7-0a4475837840.png)
 
+### Demo - Live
+<a href="https://rafael-bonaldo.github.io/componente-de-codigo-QR/">view Qr code component solution</a>
+
 ### Built with
 
 - Semantic HTML5 markup
